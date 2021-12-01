@@ -5,6 +5,7 @@ body {
   font-size: 15px;
   line-height: 1.5;
   color: #121212;
+  background: url("img/greysquare.png");
 }
 
 .page {
@@ -54,6 +55,7 @@ body {
 .nav-link:hover {
   background-color: #eee;
 }
+
 
 
 
